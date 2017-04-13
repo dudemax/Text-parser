@@ -1,0 +1,9 @@
+E:\VKBot\VKBot\VKBot\bin\Debug\VKBot.exe.config
+E:\VKBot\VKBot\VKBot\obj\Debug\VKBot.Properties.Resources.resources
+E:\VKBot\VKBot\VKBot\obj\Debug\VKBot.csproj.GenerateResource.Cache
+E:\VKBot\VKBot\VKBot\bin\Debug\VKBot.exe
+E:\VKBot\VKBot\VKBot\bin\Debug\VKBot.pdb
+E:\VKBot\VKBot\VKBot\obj\Debug\VKBot.exe
+E:\VKBot\VKBot\VKBot\obj\Debug\VKBot.pdb
+E:\VKBot\VKBot\VKBot\obj\Debug\VKBot.VKBot.resources
+E:\VKBot\VKBot\VKBot\obj\Debug\VKBot.csprojResolveAssemblyReference.cache
